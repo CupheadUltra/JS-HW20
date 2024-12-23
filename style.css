@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+button {
+    margin: 5px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.hidden {
+    display: none;
+}
+
+.text-content {
+    font-size: 16px;
+}
+
+.drawing-canvas {
+    border: 1px solid #000;
+    display: block;
+    margin-top: 10px;
+}
